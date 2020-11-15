@@ -39,5 +39,8 @@ public class Main {
         Circle circle1 = new Circle();
         pudenko.setFigure(circle1);
         System.out.println(pudenko.getFigure());
+        System.out.println(pudenko.getFigure());
+        System.out.println(pudenko.getFigure());
+
     }
 }
