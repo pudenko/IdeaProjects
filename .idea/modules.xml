@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/010_Generics/010_Generics.iml" filepath="$PROJECT_DIR$/010_Generics/010_Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic_OOP/Basic_OOP.iml" filepath="$PROJECT_DIR$/Basic_OOP/Basic_OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MQTT/MQTT.iml" filepath="$PROJECT_DIR$/MQTT/MQTT.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyProject/MyProject.iml" filepath="$PROJECT_DIR$/MyProject/MyProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_Lessons/OOP_Lessons.iml" filepath="$PROJECT_DIR$/OOP_Lessons/OOP_Lessons.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticAndNestedClasses/StaticAndNestedClasses.iml" filepath="$PROJECT_DIR$/StaticAndNestedClasses/StaticAndNestedClasses.iml" />
