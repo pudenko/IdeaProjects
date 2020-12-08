@@ -33,6 +33,6 @@ public class Main {
         Two<String> ooo;
 //        Two<String> test5 = new Derived3();
 //        Two<Double> test6 = new Derived3();
-
     }
 }
+
